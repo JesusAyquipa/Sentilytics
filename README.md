@@ -9,7 +9,7 @@ Se utilizó el dataset `mteb/SpanishSentimentClassification` obtenido desde Hugg
 - El proyecto aborda este desbalance crítico priorizando métricas que evalúan el desempeño sobre la clase minoritaria (negativa).
 
 ## Estructura del Repositorio
-- `Proyecto_2_corregido.ipynb`: Notebook principal ejecutable que contiene la limpieza de datos, el Análisis Exploratorio de Datos (EDA), el preprocesamiento y el entrenamiento del modelo de línea base (Baseline).
+- `Grupo1_APF1.ipynb`: Notebook principal ejecutable que contiene la limpieza de datos, el Análisis Exploratorio de Datos (EDA), el preprocesamiento y el entrenamiento del modelo de línea base (Baseline).
 - `requirements.txt`: Archivo con las dependencias necesarias para ejecutar el proyecto.
 
 ## Instalación y Requisitos
