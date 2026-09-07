@@ -17,7 +17,7 @@ Para reproducir este proyecto en un entorno local, asegúrate de tener Python 3.
 
 pip install -r requirements.txt
 
-Modelo Baseline y Resultados
+## Modelo Baseline y Resultados
 El modelo inicial implementado es una Regresión Logística entrenada sobre representaciones vectoriales TF-IDF (con unigramas y bigramas). Para manejar el desbalance de clases, se configuró el modelo con class_weight='balanced'.
 
 Métricas destacadas (sobre conjunto de validación):
@@ -32,7 +32,8 @@ Balanced Accuracy: 0.75
 
 Este baseline establece el punto de partida para futuras mejoras del proyecto (APF2 y APF3) mediante la implementación de embeddings o modelos basados en Transformers.
 
-Integrantes del Equipo
+## Integrantes del Equipo
+
 Angel Jesus Lopez Cardenas
 
 Arnie Adriano Flores Jeampool
