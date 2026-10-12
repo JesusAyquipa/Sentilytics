@@ -1,10 +1,7 @@
+scikit-learn
 pandas
 numpy
-scikit-learn
-matplotlib
-seaborn
 datasets
-transformers
-wordcloud
-openpyxl
+sentence-transformers
 joblib
+matplotlib
